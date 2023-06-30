@@ -1,4 +1,4 @@
-// Aniruddha Choudhury
+// KRISH SONI
 #include <stdio.h>
 int main() {    
 
