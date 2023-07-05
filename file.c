@@ -1,4 +1,4 @@
-// KRISH SONI
+// Dhruv Kadam
 #include <stdio.h>
 int main() {    
 
