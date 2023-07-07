@@ -4,6 +4,7 @@ int main() {
     // initalizing the variables
     int number1, number2, sum;
     
+    number1 = 10;
     printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
 
