@@ -1,4 +1,4 @@
-// Dhruv Kadam	    - Last Contributor
+// krish
 #include <stdio.h>
 int main() {    
 
