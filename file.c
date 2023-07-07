@@ -1,4 +1,4 @@
-// krish
+
 #include <stdio.h>
 int main() {    
 
