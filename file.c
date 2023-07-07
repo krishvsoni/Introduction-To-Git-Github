@@ -1,15 +1,16 @@
-// Yah Vaderiya    - Last Contributor
+
+// code
 #include <stdio.h>
 int main() {    
 
-    int yash, vaderiya, sum;
+    int anand, satpal, sum;
     
     printf("Enter two integers: ");
-    scanf("%d %d", &yash, &vaderiya);
+    scanf("%d %d", &anand, &satpal);
 
     // calculate the sum
-   // sum = number1 + number2;      
+    sum = anand+satpal;      
     
-    printf("%d + %d = %d", yash, vaderiya, yash+vaderiya);
+    printf("%d + %d = %d", anand, satpal, number1+number2);
     return 0;
 }
