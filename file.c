@@ -14,3 +14,4 @@ int main() {
     printf("%d + %d = %d", anand, satpal, number1+number2);
     return 0;
 }
+
