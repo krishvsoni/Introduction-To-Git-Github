@@ -1,4 +1,4 @@
-// Dhruv Kadam	    - Last Contributor
+// Neeraj Suhanda
 #include <stdio.h>
 int main() {    
 
