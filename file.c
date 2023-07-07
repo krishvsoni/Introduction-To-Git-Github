@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 int main() {    
-
+    //Initializing the variables
     int num1, number2, sum;
 
     
