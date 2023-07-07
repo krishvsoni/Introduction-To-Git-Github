@@ -1,7 +1,7 @@
 // Yash	    - Last Contributor
 #include <stdio.h>
 int main() {    
-
+    // initalizing the variables
     int number1, number2, sum;
     
     printf("Enter two integers: ");
