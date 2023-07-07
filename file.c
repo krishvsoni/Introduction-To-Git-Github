@@ -8,6 +8,7 @@ int main() {
 
     
     number1 = 10;
+    number2 = 20;
     printf("Enter two integers: ");
     scanf("%d %d", &number1, &number2);
 
