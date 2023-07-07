@@ -1,16 +1,17 @@
 
-// Aditya Ojha    - Last Contributor
+// Vipul Waskel	    - Last Contributor
 #include <stdio.h>
 int main() {    
 
-    int num1, num2, sum;
+    int a, b, sum;
     
     printf("Enter two integers: ");
-    scanf("%d %d", &num1, &num2);
+    scanf("%d %d", &a, &b);
+
 
     
 
-    printf("%d + %d = %d", num1, num2, num1+num2);
+    printf("%d + %d = %d",a,b, a+b);
 
 
  
