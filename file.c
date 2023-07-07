@@ -1,4 +1,4 @@
-// Dhruv Kadam	    - Last Contributor
+// Ayush Kumar Mishra	    - Last Contributor
 #include <stdio.h>
 int main() {    
 
