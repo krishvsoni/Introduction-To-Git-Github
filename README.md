@@ -1,4 +1,4 @@
-![Microsoft Learn Student Ambassador Logo]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fvertical-bar-media%2Ftech-microsoft-learn-the-essential-resource-for-self-starters-41d79296e67f&psig=AOvVaw0CKRYcUfYhz8dJLbNq4K2j&ust=1691666138513000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODIoMu5z4ADFQAAAAAdAAAAABAJ")
+
 
 #  Workshop Repository
 
