@@ -5,22 +5,14 @@ int main() {
 
 
 
-    int a, b, sum;
+    int num1, num2, sum;
 
-    
-    number1 = 10;
-    number2 = 20;
-    printf("Enter two integers: ");
-    scanf("%d %d", &a, &b);
+    printf("Enter num1:");
+    scanf("%d",&num1);
 
-
-    
-
-    printf("%d + %d = %d",a,b, a+b);
-
-
- 
-
-
+    printf("Enter num2:");
+    scanf("%d",&num2);
+    sum = num1 + num2;
+    printf("%d",sum);
     return 0;
 }
