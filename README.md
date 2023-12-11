@@ -11,7 +11,7 @@ The Git and GitHub workshop is designed to help you understand the basics of ver
 
 ## Repository Contents
 
-1. `Addition.C`: This is a simple C program that demonstrates the addition of two numbers. It serves as a practice exercise to understand the workflow of making changes, committing them, and pushing to a remote repository.
+1. `file.c`: This is a simple C program that demonstrates the addition of two numbers. It serves as a practice exercise to understand the workflow of making changes, committing them, and pushing to a remote repository.
 
 2. `README.md`: This file provides essential information about the repository, workshop, and instructions for getting started.
 
