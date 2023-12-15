@@ -22,7 +22,7 @@ If you would like to contribute to this workshop repository, please follow these
 1. Fork the repository to your GitHub account.
 2. Clone the forked repository to your local machine using the `git clone` command.
 3. Create a new branch to work on your changes using the `git branch` command.
-4. Make your desired changes to the `Addition.C` program or any other relevant files.
+4. Make your desired changes to the `file.c` program or any other relevant files.
 5. Commit your changes with descriptive commit messages using the `git commit` command.
 6. Push your changes to your forked repository on GitHub using the `git push` command.
 7. Finally, open a pull request from your forked repository to the original repository, detailing the changes you made and explaining their significance.
