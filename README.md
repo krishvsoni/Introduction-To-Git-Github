@@ -7,6 +7,7 @@ Welcome to the Github workshop repository! This repository contains the material
 
 ## About the Workshop
 
+
 The Git and GitHub workshop is designed to help you understand the basics of version control using Git and how to collaborate effectively on projects using GitHub. In this workshop, we will explore the fundamentals of Git, learn how to set up a repository, create branches, make commits, and manage conflicts. Additionally, we will cover the basics of GitHub, including creating pull requests, reviewing code, and merging changes.
 
 ## Repository Contents
