@@ -1,18 +1,18 @@
 
-// Vipul Waskel	    - Last Contributor
+//Mayuri Umaretiya    - Last Contributor
 #include <stdio.h>
 int main() {    
 
 
 
-    int num1, num2, sum;
 
-    printf("Enter num1:");
-    scanf("%d",&num1);
+    int a, b;
 
-    printf("Enter num2:");
-    scanf("%d",&num2);
-    sum = num1 + num2;
-    printf("%d",sum);
+    
+    a = 10;
+    b = 20;
+    printf("%d + %d = %d",a,b, a+b);
+
+
     return 0;
 }
