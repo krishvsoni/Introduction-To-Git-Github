@@ -3,7 +3,7 @@
 
 #  Workshop Repository
 
-Welcome to the Github workshop repository! This repository contains the materials and code for the workshop on Git and GitHub, specifically focusing on the `fil.c` program.
+Welcome to the Github workshop repository! This repository contains the materials and code for the workshop on Git and GitHub, specifically focusing on the `file.c` program.
 
 ## About the Workshop
 
